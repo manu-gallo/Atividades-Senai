@@ -1,0 +1,7 @@
+C:\Users\42644876842\source\repos\EXERCÍCIO 02 – Cadastro de Produto\EXERCÍCIO 02 – Cadastro de Produto\bin\Debug\EXERCÍCIO 02 – Cadastro de Produto.exe.config
+C:\Users\42644876842\source\repos\EXERCÍCIO 02 – Cadastro de Produto\EXERCÍCIO 02 – Cadastro de Produto\bin\Debug\EXERCÍCIO 02 – Cadastro de Produto.exe
+C:\Users\42644876842\source\repos\EXERCÍCIO 02 – Cadastro de Produto\EXERCÍCIO 02 – Cadastro de Produto\bin\Debug\EXERCÍCIO 02 – Cadastro de Produto.pdb
+C:\Users\42644876842\source\repos\EXERCÍCIO 02 – Cadastro de Produto\EXERCÍCIO 02 – Cadastro de Produto\obj\Debug\EXERCÍCIO 02 – Cadastro de Produto.csproj.AssemblyReference.cache
+C:\Users\42644876842\source\repos\EXERCÍCIO 02 – Cadastro de Produto\EXERCÍCIO 02 – Cadastro de Produto\obj\Debug\EXERCÍCIO 02 – Cadastro de Produto.csproj.CoreCompileInputs.cache
+C:\Users\42644876842\source\repos\EXERCÍCIO 02 – Cadastro de Produto\EXERCÍCIO 02 – Cadastro de Produto\obj\Debug\EXERCÍCIO 02 – Cadastro de Produto.exe
+C:\Users\42644876842\source\repos\EXERCÍCIO 02 – Cadastro de Produto\EXERCÍCIO 02 – Cadastro de Produto\obj\Debug\EXERCÍCIO 02 – Cadastro de Produto.pdb
